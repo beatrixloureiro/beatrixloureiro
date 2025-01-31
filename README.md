@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou Beatriz
-🎓 Estudante de Técnico em Desenvolvimento de Sistemas - Senac
+🎓 Estudante Técnico em Desenvolvimento de Sistemas - Senac
 
 Além de ser formada em Contabilidade, decidi seguir minha paixão por tecnologia e estou aprimorando minhas habilidades em Java e MySQL. Acredito no aprendizado contínuo e gosto de transformar ideias em soluções práticas.
 
@@ -33,7 +33,7 @@ Além de ser formada em Contabilidade, decidi seguir minha paixão por tecnologi
    - Trello: Planejamento e acompanhamento de projetos usando quadros Kanban
    - Design Patterns: Aplicação de padrões como Factory, Singleton, DAO e MVC
    - SOLID: Desenvolvimento baseado em boas práticas para código limpo e escalável
-   - Testes de Software: Testes unitários, funcionais e automatizadosAqui estão algumas das ferramentas e linguagens nas quais venho me destacando:
+   - Testes de Software: Testes unitários, funcionais e automatizados
 
 # 🌱 O que estou aprendendo e aperfeiçoando?
 
