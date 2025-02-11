@@ -112,6 +112,12 @@ Atualmente concluí o 3º módulo, finalizando o curso com foco nos seguintes te
 
 🔹CI/CD (aprendendo) – Integração contínua para automação de deploy
 
+## GitHub Stats and Most Used Languages
+
+![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=10&theme=dark)
+
 # 💬 Fale Comigo
 Se quiser trocar ideias, colaborar em projetos ou conversar sobre alguma série, filme ou anime, fique à vontade para me chamar:
 
