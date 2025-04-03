@@ -58,34 +58,6 @@ Aqui estão alguns dos projetos mais legais nos quais estou trabalhando:
     Monitor de Pressão Arterial
     Aplicação para registro e monitoramento de dados de pressão arterial. Os dados são armazenados em CSV e a interface foi desenvolvida com Java Swing.
 
-# 📚 Trajetória no Curso Técnico em Desenvolvimento de Sistemas - Senac
-
-Atualmente concluí o 3º módulo, finalizando o curso com foco nos seguintes temas:
-
-🔹 1º Módulo - Fundamentos da Programação e Computação
-
-    Lógica de Programação e Algoritmos
-    Sistemas Digitais e Redes de Computadores
-    Metodologias de Desenvolvimento de Software
-    Regras de Negócio e Modelagem de Processos
-
-🔹 2º Módulo - Desenvolvimento e Estruturação de Sistemas
-
-    Programação Orientada a Objetos (POO) em Java
-    Banco de Dados Relacional (MySQL) e SQL Avançado
-    Interfaces Gráficas e Desenvolvimento UI/UX
-    Padrões de Projeto e Arquitetura de Software
-    Segurança da Informação e Boas Práticas de Código
-
-🔹 3º Módulo - Aplicações Avançadas e Desenvolvimento Web
-
-    Desenvolvimento Web com HTML, CSS, JavaScript
-    Frameworks Front-end (Bootstrap, jQuery)
-    Versionamento de Código com Git/GitHub
-    Testes de Software e Integração Contínua (CI/CD)
-    Segurança Web e Proteção contra Vulnerabilidades
-
-
 # 🛠️ Ferramentas que uso com frequência
 
 🔹Java (NetBeans, IntelliJ IDEA) – IDEs para desenvolvimento Java
