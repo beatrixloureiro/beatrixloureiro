@@ -86,7 +86,7 @@ Aqui estão alguns dos projetos mais legais nos quais estou trabalhando:
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrixloureiro&layout=compact&langs_count=8&theme=dark)
 
 # 💬 Fale Comigo
 Se quiser trocar ideias, colaborar em projetos ou conversar sobre alguma série, filme ou anime, fique à vontade para me chamar:
